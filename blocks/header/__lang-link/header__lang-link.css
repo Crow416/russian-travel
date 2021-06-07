@@ -2,13 +2,6 @@
     color: #fff;
     text-align: right;
     text-decoration: none;
-    padding-left: 18px;
     width: 29px;
     height: 28px;
-}
-
-.header__lang-link:nth-child(1) {
-    text-decoration: underline;
-    padding-left: 0;
-    width: 30px;
 }
