@@ -1,10 +1,22 @@
 .lead__caption {
     margin: 0;
-    padding-top: 8px;
     font-weight: 400;
+    font-style: normal;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 0.15em;
     text-transform: uppercase;
-    align-self: flex-start;
+    color: #fff;
+}
+
+@media (max-width: 1023px) {
+    .lead__caption {
+        margin: 0 auto 0 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .lead__caption {
+        margin: 0 auto 0 16px;
+    }
 }
