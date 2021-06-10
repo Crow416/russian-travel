@@ -1,0 +1,13 @@
+.footer__link {
+    margin: 0;
+    margin-right: 18px;
+    transition: 0.3s linear;
+}
+
+.footer__link:last-child {
+    margin-right: 0;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+}
