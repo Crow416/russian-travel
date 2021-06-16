@@ -7,17 +7,12 @@
         max-width: 440px;
     }
 }
-@media (max-width: 1023px) {
+@media (max-width: 1000px) {
     .place__image {
         max-width: 340px;
     }
 }
-@media (min-width: 425px) and (max-width: 635px) {
-    .place__image {
-        max-width: 100%;
-    }
-}
-@media (max-width: 425px) {
+@media (max-width: 635px) {
     .place__image {
         max-width: 100%;
     }

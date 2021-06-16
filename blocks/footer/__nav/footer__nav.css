@@ -2,7 +2,7 @@
     margin: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 635px) {
     .footer__nav {
         margin-bottom: 48px;
     }

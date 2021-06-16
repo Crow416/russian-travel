@@ -22,3 +22,9 @@
         line-height: 35px;
     }
 }
+
+@media (max-width: 635px) {
+    .place__title {
+        padding: 0 16px;
+    }
+}
